@@ -20,9 +20,9 @@ I use this repository to consistently practice coding problems and improve my pr
 
 | Difficulty | Problems |
 |------------|----------|
-| 🟢 Easy | [View Solutions](./Easy) |
-| 🟡 Medium | [View Solutions](./Medium) |
-| 🔴 Hard | [View Solutions](./Hard) |
+| 🟢 Easy | [View Solutions](./leetcode/Easy) |
+| 🟡 Medium | [View Solutions](./leetcode/Medium) |
+| 🔴 Hard | [View Solutions](./leetcode/Hard) |
 
 ---
 
