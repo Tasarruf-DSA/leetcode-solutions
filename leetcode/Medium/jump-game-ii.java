@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/jump-game-ii/
-// Solved on: 2026-10-01T18:12:05.696Z
+// Solved on: 2026-10-02T03:56:32.545Z
 
 class Solution {
     public int jump(int[] nums) {
